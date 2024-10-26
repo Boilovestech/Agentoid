@@ -5,3 +5,4 @@ langchain
 python-dotenv
 wikipedia
 numexpr
+duckduckgo-search
