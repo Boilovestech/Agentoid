@@ -9,7 +9,7 @@ from langchain.agents import AgentExecutor
 from langchain.tools import Tool
 from langchain_community.utilities import WikipediaAPIWrapper
 from langchain.chains import LLMMathChain, LLMChain
-
+import os
 # Page config
 st.set_page_config(
     page_title="Agentoid",
