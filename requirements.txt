@@ -4,4 +4,3 @@ langchain-groq
 langchain
 python-dotenv
 wikipedia
-os
